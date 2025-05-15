@@ -1,6 +1,7 @@
 # SkyGenesis Plugin
 
-(Marked for badges Coming Soon)
+![Paper 1.21.4](https://img.shields.io/badge/Paper-1.21.4-green) ![Folia 1.21.4](https://img.shields.io/badge/Folia-1.21.4-green)
+![code quality](https://img.shields.io/badge/code%20quality-NA-red) 
 
 SkyGenesis is a highly customizable and performance-optimized Minecraft OneBlock plugin designed to offer an immersive SkyBlock experience with dynamic gameplay, island management, team features, and robust admin tools.
 
